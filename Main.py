@@ -1,7 +1,7 @@
 import HumanDataBase
 import time
 
-HumanDataBase.Initialize()
+HumanDataBase.Initialize(500, 100, 5)
 
 HumanDataBase.PrintHumanStats()
 
